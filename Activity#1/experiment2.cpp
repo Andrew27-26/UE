@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-  int num = 10;
-  float grade = 91.5;
-  char letter = 'A';
+  int num = 27;
+  float grade = 90.0;
+  char letter = 'B';
   cout << num << endl;
   cout << grade << endl;
   cout << letter;

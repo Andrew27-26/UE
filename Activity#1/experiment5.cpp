@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-  int number = 10;
-  if (number > 5) {
+  int number = 7;
+  if (number > 6) {
 cout << "Number is greater than 5";
  }
   return 0;
