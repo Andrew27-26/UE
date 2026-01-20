@@ -1,0 +1,23 @@
+     <Preliminary Examination DSA>
+
+Make a C++ Code: (Array)
+ 1. Create an integer array composing 10 elements with values ranging from 20 to 60 (Unsorted Values).
+ 2. Display the elements of the array using a for loop statement
+
+Task 2: (Stack & Queue)
+ 1. Make a stack and queue that stores the content of the arrays (Use insert function)
+ 2. Use 'Pop' 3 times the elements in stack and queue
+ 3. Display the final contents of the stack and queue
+
+ (Make sure that the array is empty using a "!" function)
+
+Task 3: (Data merging)
+ 1. Combine all the content of stack and queue into a single container with the stack being the first array to be shown
+     then queue (Call data merging then print)
+
+Task 4: (Sorting Algorithm)
+ 1. Make 4 sorting algorithm functions that can be called using void function
+ 2. Insert the elements of data merging into the sorting algorithms
+
+Task 5: (Chrono Function)
+ 1. Between running the 4 sorting algorithms, determine the time complexity on each exectuiong of the algorithms

@@ -14,8 +14,8 @@ int main() {
 
     auto end = chrono::high_resolution_clock::now();
 
-    cout << "Insertion time (ms): "
-         << chrono::duration_cast<chrono::milliseconds>(end - start).count()
+    cout << "Insertion time (ns): "
+         << chrono::duration_cast<chrono::nanoseconds>(end - start).count()
          << endl;
 
     return 0;
